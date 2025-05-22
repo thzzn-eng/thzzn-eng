@@ -36,7 +36,8 @@ Welcome to my GitHub! I'm passionate towards building software that models pheno
 
 ## 📈 GitHub Stats (Optional)
 
-!Your GitHub stats(https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+!Your GitHub stats((https://github-readme-stats.hackclub.dev/api/wakatime?username=3045&api_domain=hackatime.hackclub.com&theme=ocean_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+))
 
 ---
 
