@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🌌 Hello, I'm Isaac!
 
-<!--
-**thzzn-eng/thzzn-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Middle College High School student • Aspiring Astrophysicist & Engineer • He/Him
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate towards building software that models phenomena in our universe and sharing it with the scientific and programming community. I am following a career in applied research and hope to build a mettle foundation for my future and the future I want to build for others!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Focus
+
+- 📚 Learning: [e.g., Python, MATLAB, C++, etc.]
+- 🛰️ Projects: [e.g., coding dark matter virial theorem simulation.]
+- 📓 School Clubs / Activities: [e.g., M.E.S.A., Science Bowl, SJDC Francophonie, P.M.C.S. .]
+
+---
+
+## 🚀 Projects I'm Working On
+
+| **Dark Matter Virial Theorem Simulation** | [A model of dark matter in an enclosed orbital system, using comparative mathematics from variable and test systems.] |
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages**: Python, MATLAB, Fortran.
+- **Tools**: MATLAB, Anaconda, VS Code, Git/GitHub.
+
+---
+
+## 🌐 Find Me Online
+
+- 🌍 Personal Website: [https://thzzn-eng.github.io/zaclab/index.html](url)
+- ✉️ Email: [dinitriodela@gmail.com]
+
+---
+
+## 📈 GitHub Stats (Optional)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+## ✨ Fun Facts
+
+- 🌠 Favorite astrophysics topic: [e.g., black holes, quasars, magnetars]
+- 📚 Favorite book: Dante's Inferno
