@@ -8,15 +8,15 @@ Welcome to my GitHub! I'm passionate towards building software that models pheno
 
 ## 🔭 Current Focus
 
-- 📚 Learning: [e.g., Python, MATLAB, C++, etc.]
-- 🛰️ Projects: [e.g., coding dark matter virial theorem simulation.]
-- 📓 School Clubs / Activities: [e.g., M.E.S.A., Science Bowl, SJDC Francophonie, P.M.C.S. .]
+- 📚 Learning: e.g., Python, MATLAB, C++, etc.
+- 🛰️ Projects: e.g., coding dark matter virial theorem simulation.
+- 📓 School Clubs / Activities: e.g., M.E.S.A., Science Bowl, SJDC Francophonie, P.M.C.S. .
 
 ---
 
 ## 🚀 Projects I'm Working On
 
-| **Dark Matter Virial Theorem Simulation** | [A model of dark matter in an enclosed orbital system, using comparative mathematics from variable and test systems.] |
+| **Dark Matter Virial Theorem Simulation** | A model of dark matter in an enclosed orbital system, using comparative mathematics from variable and test systems. |
 
 ---
 
@@ -29,18 +29,18 @@ Welcome to my GitHub! I'm passionate towards building software that models pheno
 
 ## 🌐 Find Me Online
 
-- 🌍 Personal Website: [https://thzzn-eng.github.io/zaclab/index.html](url)
-- ✉️ Email: [dinitriodela@gmail.com]
+- 🌍 Personal Website: https://thzzn-eng.github.io/zaclab/index.html(url)
+- ✉️ Email: dinitriodela@gmail.com
 
 ---
 
 ## 📈 GitHub Stats (Optional)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+!Your GitHub stats(https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ---
 
 ## ✨ Fun Facts
 
-- 🌠 Favorite astrophysics topic: [e.g., black holes, quasars, magnetars]
+- 🌠 Favorite astrophysics topics: Blackholes, Quasars, Magnetars, and General Relativity.
 - 📚 Favorite book: Dante's Inferno
