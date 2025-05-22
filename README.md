@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm passionate towards building software that models pheno
 
 ## 🌐 Find Me Online
 
-- 🌍 Personal Website: https://thzzn-eng.github.io/zaclab/index.html(url)
+- 🌍 Personal Website: https://thzzn-eng.github.io/zaclab/index.html
 - ✉️ Email: dinitriodela@gmail.com
 
 ---
