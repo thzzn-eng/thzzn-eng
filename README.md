@@ -34,10 +34,10 @@ Welcome to my GitHub! I'm passionate towards building software that models pheno
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## ⌛ Hackatime Stats
 
-!Your GitHub stats((https://github-readme-stats.hackclub.dev/api/wakatime?username=3045&api_domain=hackatime.hackclub.com&theme=ocean_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-))
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=3045&api_domain=hackatime.hackclub.com&theme=ocean_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 
 ---
 
